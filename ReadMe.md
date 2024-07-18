@@ -28,7 +28,7 @@ Abra o GitBash e digite: git clone /link do repositório no git
 Isso vai clonar tudo que tem na branch main para a nova branch. Vamos alterar lá.
 3) Apos concluido a alteração vamos:
 31) git add . //para adicionar as alteracoes em stage
-32) git commit -b "mensagem" // para fazer o commit
+32) git commit -m "mensagem" // para fazer o commit
 33) git push origin /nome branch // para enviar isso ao repositorio.
 
 
