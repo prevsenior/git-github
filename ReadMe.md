@@ -9,8 +9,8 @@ Os passos são:
 3) no terminal digite: git add . // vai mandar o arquivo para fase de stage
 4) no terminal digite: got commit -m "texto sobre o que está fazendo"
 5) no terminal digite: git push origin /nome da branch/
+Aí o código será enviado para o git hub
 
 Outros comando importantes
 - para trocar de Branch você digite: git checkout /nome da branch
 
-Aí o código será enviado para o git hub
