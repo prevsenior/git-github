@@ -15,10 +15,22 @@ Outros comando importantes
 - para trocar de Branch você digite: git checkout /nome da branch
 
 O processo total é
-1 - Aviso: nós não trabalhamos na Branch principal, logo precisamos criar outra branch local.
-2 - git checkout -b /nome da branch // você criar a branch.
-3 - para ver se criou digite: git branch
-4 - para mudar para a branch que você criou digite: git checkout /nome da branch
+1) Aviso: nós não trabalhamos na Branch principal, logo precisamos criar outra branch local.
+2) git checkout -b /nome da branch // você criar a branch a partir da branch main.
+3) para ver se criou digite: git branch
+4) para mudar para a branch que você criou digite: git checkout /nome da branch
+
+O ciclo é:
+1) Faça um clone da branch main considerando o repositório que você quer no github. Para isso você pode:
+Vá para uma pasta onde você vai criar a pasta automaticamente que tem no git
+Abra o GitBash e digite: git clone /link do repositório no git
+2) vamos clonar a branch main em outra branch digite: git chechout -b /nome da branch
+Isso vai clonar tudo que tem na branch main para a nova branch. Vamos alterar lá.
+3) Apos concluido a alteração vamos:
+31) git add . //para adicionar as alteracoes em stage
+32) git commit -b "mensagem" // para fazer o commit
+33) git push origin /nome branch // para enviar isso ao repositorio.
+
 
 
 
