@@ -8,6 +8,6 @@ Os passos são:
 2) no terminal digite: git status // isso vai te mostrar se tem algo para receber commit.
 3) no terminal digite: git add . // vai mandar o arquivo para fase de stage
 4) no terminal digite: got commit -m "texto sobre o que está fazendo"
-5) no terminal digite: git push origin <nome da branch>
+5) no terminal digite: git push origin /nome da branch/
 
 Aí o código será enviado para o git hub
