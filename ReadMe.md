@@ -10,4 +10,7 @@ Os passos são:
 4) no terminal digite: got commit -m "texto sobre o que está fazendo"
 5) no terminal digite: git push origin /nome da branch/
 
+Outros comando importantes
+- para trocar de Branch você digite: git checkout /nome da branch
+
 Aí o código será enviado para o git hub
