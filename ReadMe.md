@@ -14,3 +14,11 @@ Aí o código será enviado para o git hub
 Outros comando importantes
 - para trocar de Branch você digite: git checkout /nome da branch
 
+O processo total é
+1 - Aviso: nós não trabalhamos na Branch principal, logo precisamos criar outra branch local.
+2 - git checkout -b /nome da branch // você criar a branch.
+3 - para ver se criou digite: git branch
+4 - para mudar para a branch que você criou digite: git checkout /nome da branch
+
+
+
