@@ -1,6 +1,13 @@
 # Git and GitHub
 Nosso curso de git e github TOP alterado
 
+# Importante
+1) Verifique se você está no repositorio correto
+2) digite: git branch // para ver qual é a branch que você está e quantas branchs tem
+3) Digite: git branch -d nome-da-branch // se você quiser deletar uma branch, mas só funciona se ela já estiver sido mesclada
+4) 
+
+
 # Dia 01
 Aprendemos neste dia sobre GIT, desde como criar um repositorio local até merge de branch
 Os passos são:
@@ -10,6 +17,7 @@ Os passos são:
 4) no terminal digite: got commit -m "texto sobre o que está fazendo"
 5) no terminal digite: git push origin /nome da branch/
 Aí o código será enviado para o git hub
+6) git checkout -b /nome da branch // você criar a branch a partir da branch main.
 
 Outros comando importantes
 - para trocar de Branch você digite: git checkout /nome da branch
