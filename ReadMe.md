@@ -2,6 +2,7 @@
 Nosso curso de git e github TOP alterado
 
 # Importante
+0) git checkout -b /nome da branch // você criar a branch a partir da branch main.
 1) Verifique se você está no repositorio correto
 2) digite: git branch // para ver qual é a branch que você está e quantas branchs tem
 3) Digite: git branch -d nome-da-branch // se você quiser deletar uma branch, mas só funciona se ela já estiver sido mesclada
